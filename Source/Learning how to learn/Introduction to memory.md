@@ -7,6 +7,7 @@ date updated: '2021-02-12T12:18:36-06:00'
 
 # Introduction to Memory
 
+There are changes
 Long term memory :
 
 - LTM is like a storage warehouse.
