@@ -8,7 +8,7 @@ reference: https://www.coursera.org/learn/learning-how-to-learn/lecture/8IUbH/in
 - Exercise increases the number of neurons you have.
 - New neurons are being born in the hippocampus.
 
->Passion and persistence are the key of success.
+> Passion and persistence are the key of success.
 
 See also:
 - [[Introduction to memory]]
