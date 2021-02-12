@@ -26,10 +26,10 @@ It depends on the model representation you are using for your data structure: Yo
 
 ### Logic
 
-Constant folding and propagation:: Evaluate constant expressions and substitute the result into further expressions, all during compilations. Compiler sometimes does this optimization for us.
+- **Constant folding and propagation**:: Evaluate constant expressions and substitute the result into further expressions, all during compilations. Compiler sometimes does this optimization for us.
+- **Common-subexpression elimination**:: Avoid computing the same expression multiple times by evaluating the expression once, and store the result for later use. Compiler sometimes does this optimization for us.
 
-Common-subexpression elimination:: Avoid computing the same expression multiple times by evaluating the expression once, and store the result for later use. Compiler sometimes does this optimization for us.
-
+``` SQL
 From:
 - a = b + c 
 - b = a - d 
@@ -37,17 +37,14 @@ From:
 - d = a - d 
 
 To: 
-	a = b + c 
-	b = a - d 
-	c = b + c 
-	d = b
+- a = b + c 
+- b = a - d 
+- c = b + c 
+- d = b
+```
 
-Algebraic identities:: Replace expensive algebraic expressions with simpler equivalents that require less work.
+**Algebraic identities**:: Replace expensive algebraic expressions with simpler equivalents that require less work.
 
 Example: When checking for collisions we can use the Pythagorean's theorem so that $h = \\sqrt{(x\_0-x\_1)^2 + (y\_0 - y\_1)^2 + (z\_0-z\_1)^2}$ but as mentioned in the class, the square root operation is a relative expensive operation. One simple thing we can use is using the identity $\\sqrt{u} \\leq v $ is the same than $u \\leq v^2$, so we can use the expression $h^2 =(x\_0-x\_1)^2 + (y\_0 - y\_1)^2 + (z\_0-z\_1)^2$ instead.
 
--   **Short-Cirtuiting**
-
--   Loops
-
--   Functions
+- **Short-Cirtuiting**
