@@ -1,13 +1,7 @@
----
-date updated: '2021-02-12T12:18:36-06:00'
-
----
-
 #Memory
 
 # Introduction to Memory
 
-There are changes
 Long term memory :
 
 - LTM is like a storage warehouse.
@@ -18,6 +12,8 @@ Working memory :
 - Center out at the prefrontal cortex.
 - Working memory can only hold four chunks of information.
 - Short term memory is an inefficient blackboard
+
+
 
 #### Se also
 
