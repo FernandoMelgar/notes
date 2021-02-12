@@ -1,3 +1,4 @@
+#Learning 
 # Interview with Dr. Terrence Sejnowski
 reference: https://www.coursera.org/learn/learning-how-to-learn/lecture/8IUbH/interview-with-dr-terrence-sejnowski
 
@@ -8,3 +9,6 @@ reference: https://www.coursera.org/learn/learning-how-to-learn/lecture/8IUbH/in
 - New neurons are being born in the hippocampus.
 
 >Passion and persistence are the key of success.
+
+See also:
+- [[Introduction to memory]]
