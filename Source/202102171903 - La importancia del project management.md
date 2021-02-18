@@ -1,13 +1,12 @@
 #Project-Management 
 
-# La importancia del Project Management
-El cliente no siempre puede transmitir la idea de su nuevo producto/servicio completamente.
+# 202102171903 - La importancia del project management
 
-> Todo proyecto va generado a generar una oportunidad de negocios para la empresa.
+El cliente no siempre puede transmitir la idea de su nuevo producto/servicio completamente. La transmisión de ideas no es trivial, debe de existir un proceso donde podamos asegurarnos entendemos las necesidades del cliente y las necesidades de negocio.
 
-> Los proyectos tienen que **satisfacer una necesidad de negocio**, no una necesidad tecnológica.
+> Todo proyecto va generado a generar una oportunidad de negocios para la empresa. Los proyectos tienen que **satisfacer una necesidad de negocio**, no una necesidad tecnológica.
 
-No es tan trivial obtener los requerimientos de un proyecto.
+> No es tan trivial obtener los requerimientos de un proyecto.
 
 **¿Por qué fracasa un proyecto?**
 - No se comprendieron las necesidades del usario.
@@ -23,10 +22,9 @@ Entregarle a algo antes un cliente, le puedes mover también a él su planeació
 
 Un proyecto es de calidad cuando cumples con los constrains establecidos (Tiempo, Costo y Alcance)
 
-El project management se enfoca en...
 ![](https://i.imgur.com/MEyg7mm.png)
 
-Un project manager tiene que ser preventivo estos constrains no se salgan de control.
+Un project manager tiene que prevenir que esotso constrains no se salgan de control.
 
 ## Importancia del project management
 
@@ -43,7 +41,7 @@ Un project manager tiene que ser preventivo estos constrains no se salgan de con
 	- Incorrecta definición de requerimientos.
 
 **¿Por qué tienen éxito los proyectos de TI?**
-1. Sólidos procesos de project management. ==Todos las organizaciones tienen procesos de negocios.== Project management no cambia operaciones. PM va en paralelo con los procesos de negocio de la organización, en ciertas etapas del negocio PM empieza a convivir con tu proceso.	
+1. Sólidos procesos de project management. ==Todos las organizaciones tienen procesos de negocios. Solo uno son más malos que  otros.== Project management no cambia operaciones. PM va en paralelo con los procesos de negocio de la organización, en ciertas etapas del negocio PM empieza a convivir con tu proceso.	
 2. Proyecto ligado a los objetivos del negocio.
 3. Gran compromiso de los altos ejecutivos
 4. Buena administración de cambios. ==Hay que minimizar los cambios, pero siempre hay cambios.== Reducir los **"acuerdos de pasillo."**

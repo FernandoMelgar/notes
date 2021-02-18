@@ -1,5 +1,5 @@
 ---
-cards-deck: Default
+cards-deck: English-Spelling-Words
 ---
 
 oppre_ion ::  oppression

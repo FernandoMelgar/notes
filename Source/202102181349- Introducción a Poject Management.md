@@ -43,13 +43,13 @@ Un **proyecto** es un esfuerzo _temporal_ llevado a cabo con el _fin_ de crear u
 	- No tienen un fin.
 - Producen productos similares o idénticos.
 
-> Las fallas en los proyectos de TI va más allá del software o del hardware.
+> Las fallas en los proyectos de TI van más allá del software o del hardware.
 
 #### ¿Por qué surgió la necesidad de administrar proyectos de IT?
 - Dinero: En 1995 los costos por fallas en planificación sumaron $150 Billones. 
 - Tiempo: En 1994 las operaciones evaluadas tomaron 37% más tiempo del planeado.
 
-> El proyecto termina con la cobranza.
+> El proyecto termina con la cobranza. Una vez que ingresa el dinero a la cartera.
 
 #### Tendencias recientes que afectan la administración de proyectos.
 - Globalización.
