@@ -11,4 +11,4 @@ reference: https://www.coursera.org/learn/learning-how-to-learn/lecture/8IUbH/in
 > Passion and persistence are the key of success.
 
 See also:
-- [[Introduction to memory]]
+- [[202102181351 - Introduction to memory]]

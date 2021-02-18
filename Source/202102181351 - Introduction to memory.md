@@ -17,6 +17,6 @@ Working memory :
 
 #### Se also
 
-- [[Practice makes permanent]]
-- [[The importance of sleep in learning]]
+- [[202102181353 - Practice makes permanent]]
+- [[202102181355 - The importance of sleep in learning]]
 - [[202102181259 - Chunking information]]
