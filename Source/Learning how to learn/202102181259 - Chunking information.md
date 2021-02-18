@@ -2,4 +2,9 @@
 # Chunking information
 **What is a chunk?** Unite mental pieces of information through meaning
 how to form a chunk? 
-Get an innitial sence of the pattern.
+
+- Get an initial sense of the pattern.
+
+Steps to chunking:
+1. FOCUS, FOCUS AND FOCUS.
+2. 
