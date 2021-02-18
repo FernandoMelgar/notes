@@ -1,5 +1,5 @@
 ---
-cards-deck: Administración de proyectos
+cards-deck: Administración-De-Proyectos
 ---
 #Project-Management
 # 202102181349- Introducción a Poject Management
