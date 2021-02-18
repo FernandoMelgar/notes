@@ -1,5 +1,6 @@
 #Project-Management 
 
+# La importancia del Project Management
 El cliente no siempre puede transmitir la idea de su nuevo producto/servicio completamente.
 
 > Todo proyecto va generado a generar una oportunidad de negocios para la empresa.
@@ -41,7 +42,7 @@ Un project manager tiene que ser preventivo estos constrains no se salgan de con
 	- Tecnologías nuevas o no familiares
 	- Incorrecta definición de requerimientos.
 
-¿Por qué tienen éxito los proyectos de TI?
+**¿Por qué tienen éxito los proyectos de TI?**
 1. Sólidos procesos de project management. ==Todos las organizaciones tienen procesos de negocios.== Project management no cambia operaciones. PM va en paralelo con los procesos de negocio de la organización, en ciertas etapas del negocio PM empieza a convivir con tu proceso.	
 2. Proyecto ligado a los objetivos del negocio.
 3. Gran compromiso de los altos ejecutivos
@@ -52,18 +53,6 @@ Un project manager tiene que ser preventivo estos constrains no se salgan de con
 8. Administrador de proyectos empoderado.
 9. Miembros del equipo adecuados y capacitados, con roles y responsabilidades bien definidas. 
 10. Disponibilidad de fondos.
-- 
-
 
 Proyectos down-up y up-down. Los UD son propuestos por un área superior.
-
-
-
-
-
-## El rol de project management
-
-## Claves de la administración de proyectos en el área de IT
-
-## Administrando a los contratistas
 
