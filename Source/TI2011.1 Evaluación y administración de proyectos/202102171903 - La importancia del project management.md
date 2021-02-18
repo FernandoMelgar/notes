@@ -56,3 +56,5 @@ Un project manager tiene que ser preventivo estos constrains no se salgan de con
 
 Proyectos down-up y up-down. Los UD son propuestos por un área superior.
 
+**Ver también:**
+- [[20210210200 - Introducción a Poject Management]]

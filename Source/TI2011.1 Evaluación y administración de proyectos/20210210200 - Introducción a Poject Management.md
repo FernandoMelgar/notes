@@ -63,7 +63,5 @@ En la definición de **proyecto**: Un esfuerzo _temporal_ llevado a cabo con el 
 #### Procesos de administración de proyectos
 - Planear en el trabajo y trabajar en el plan.
 
-
-
 **See also:**
 - Slides: [[TI2011.1 Lecture 01.pdf]]
