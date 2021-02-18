@@ -7,4 +7,6 @@ how to form a chunk?
 
 Steps to chunking:
 1. FOCUS, FOCUS AND FOCUS.
-2. 
+2. Understand the basic Idea your are  trying to grasp
+3. Gaining context, not only know how but **when.**
+4. PRACTICE, PRACTICE AND PRACTICE
