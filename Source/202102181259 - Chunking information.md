@@ -1,4 +1,4 @@
-#Learning-How-To-Lear
+#Learning-How-To-Learn
 # Chunking information
 **What is a chunk?** Unite mental pieces of information through meaning
 how to form a chunk? 
