@@ -4,18 +4,14 @@ source: https://classroom.udacity.com/courses/ud805/
 
 ---
 ## History
-Se origina en 1997 y tiene seis pilares:
+On 1997, Rational defined six modern best practices for software engineering.
 1. Develpo iterative, focusing or risk.
 2. Manage requirements.
 3. Employ component-based architectury
-4. Model software visually. Enhace visualization, every stakeholder can grasp the intention.
-5. Continous verify Quality.
-7. Control changes.
+4. Model software visually. 
+5. Continuous verify Quality.
+6. Control changes.
 
-What are the six best practices for modern software engineering? #card
-1. Develpo iterative, focusing or risk.
-2. Manage requirements.
-3. Employ component-based architectury
-4. Model software visually. Enhace visualization, every stakeholder can grasp the intention.
-5. Continous verify Quality.
-7. Control changes.
+## Features of RUP
+
+Rational Unified Process is a Software Process Model.
