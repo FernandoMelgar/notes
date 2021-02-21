@@ -1,5 +1,5 @@
 #Teamwork 
-# 202102211557 - Having a role person makes easier to be disciplined
+# 202102211557 - Having a defined role model in a group improves the group quality.
 **source:** McCord, P. (2020). Powerful.
 
 ---
