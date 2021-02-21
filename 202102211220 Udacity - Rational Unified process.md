@@ -22,17 +22,13 @@ On 1997, Rational defined six modern best practices for software engineering.
 
 ### Component based.
 - A software system is defined as a set of components
-- Exist a well-defined way in which the components can communicate with each other.
+- Exists  **well-defined interfaces** in which components can communicate with each other.
 
-### Related whit UML
+### Tightly related with UML
 -	Uses same notation as UML.
 -	Basic principles.
 
 ### Distinguishing aspects
-- Use-case driven
-- Architecture centric
+- Use-case driven.
+- Architecture-centric.
 - Iterative and incremental.
-It's iterative.
-
-
-Rational Unified Process is a Software Process Model.
