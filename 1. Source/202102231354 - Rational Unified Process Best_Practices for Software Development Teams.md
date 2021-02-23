@@ -1,5 +1,5 @@
 #Project-Management #Software-Engineering 
-# 202102231354 Rational Unified Process - Best Practices for Software Development Teams
+# 202102231354 - Rational Unified Process: Best Practices for Software Development Teams
 **source:** https://www.ibm.com/developerworks/rational/library/content/03July/1000/1251/1251_bestpractices_TP026B.pdf
 
 ---
@@ -76,7 +76,34 @@ The main evaluation criteria for the elaboration phase involves the answers to t
 **The project may be aborted or considerably re-thought if it fails to pass this milestone.**
 
 ##### Construction Phase
-During the construction phase, all remaining components and application features are developed and integrated into the product, and all features are thoroughly tested. ==The construction phase is, in one sense, a manufacturing process where emphasis is placed on managing resources and controlling operations to optimize costs, schedules, and quality.== In this sense, the management mindset undergoes a transition from the development of intellectual property during inception and elaboration, to the development of deployable products during construction and transition.
+During the construction phase, all remaining components and application features are developed and integrated into the product, and all features are thoroughly tested. ==The construction phase is, in one sense, a manufacturing process where emphasis is placed on managing resources and controlling operations to optimize costs, schedules, and quality.== In this sense, ==the management mindset undergoes a transition from the development of intellectual property during inception and elaboration, to the development of deployable products during construction and transition==.
+
+The outcome of the construction phase is a product ready to put in hands of its end-users. At minimum, it consists of: 
+- The software product integrated on the adequate platforms. 
+- The user manuals. 
+- A description of the current release.
+
+###### Milestone : Initial Operational Capability
+At the end of the construction phase is the third major project milestone (Initial Operational Capability Milestone). At this point, you decide if the software, the sites, and the users are ready to go operational, without exposing the project to high risks. This release is often called a **“beta” release.**
+
+The evaluation criteria for the construction phase involve answering these questions:
+- Is this product release stable and mature enough to be deployed in the user community? 
+- Are all stakeholders ready for the transition into the user community? 
+- Are the actual resource expenditures versus planned expenditures still acceptable?
+
+**Transition may have to be postponed by one release if the project fails to reach this milestone.**
+
+##### Transition Phase
+==The purpose of the transition phase is to transition the software product to the user community==. Once the product has been given to the end user, issues usually arise that require you to develop new releases, correct some problems, or finish the features that were postponed.
+
+This includes: 
+- “beta testing” to validate the new system against user expectations
+-  Parallel operation with a legacy system that it is replacing 
+-  Conversion of operational databases 
+-  Training of users and maintainers.
+-  Roll-out the product to the marketing, distribution, and sales teams.
+
+Considerable effort is expended in developing user-oriented documentation, training users, supporting users in their initial product use, and reacting to user feedback. At this point in the lifecycle, however, user feedback should be confined primarily to product tuning, configuring, installation, and usability issues.
 **See also:**
 - [[202102211220 Udacity - Rational Unified process]]
 - [[202102171903 - La importancia del project management]]
