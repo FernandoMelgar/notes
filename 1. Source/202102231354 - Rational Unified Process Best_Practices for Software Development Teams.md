@@ -134,7 +134,34 @@ A worker defines the behavior and responsibilities of an individual, or a group 
 > The way you work depends on the role you take.
 
 ##### Activity
-==An activity of a specific worker is a unit of work that an individual in that role may be asked to perform.== The activity has a clear purpose, usually expressed in terms of creating or updating some artifacts, such as a model, a class, a plan. Every activity is assigned to a specific worker. An activity should be usable as an element of planning and progress; if it is too small, it will be neglected, and if it is too large, progress would have to be expressed in terms of an activity’s parts.
+==An activity of a specific worker is a unit of work that an individual in that role may be asked to perform.== The activity has a clear purpose, usually expressed in terms of creating or updating some artifacts, such as a model, a class, a plan. Every activity is assigned to a specific worker. **An activity should be usable as an element of planning and progress**; if it is too small, it will be neglected, and if it is too large, progress would have to be expressed in terms of an activity’s parts.
+
+##### Artifact
+An artifact is a piece of information that is produced, modified, or used by a process. Artifacts are the tangible products of the project, the things the project produces or uses while working towards the final product. ==Artifacts are used as input by workers to perform an activity, and are the result or output of such activities==. In object-oriented design terms, as activities are operations on an active object (the worker), artifacts are the parameters of these activities.
+
+##### Workflow
+A mere enumeration of all workers, activities and artifacts **does not** quite constitute a process. We need a way to describe meaningful sequences of activities that produce some valuable result, and to show interactions between workers.
+
+> A workflow is a sequence of activities that produces a result of observable value.
+
+#### Core workflows
+**There are nine core process workflows in the Rational Unified Process**, which represent a partitioning of all workers and activities into logical groupings.
+
+The core process workflows are divided into six core “engineering” workflows:
+1. Business modeling workflow.
+2. Requirements workflow.
+3. Analysis & Design workflow.
+4. Implementation workflow.
+5. Test workflow.
+6. Deployment workflow. 
+
+And three core “supporting” workflows: 
+1. Project Management workflow.
+2. Configuration and Change Management workflow.
+3. Environment workflow.
+
+##### Business modeling
+==One of the major problems with most business engineering efforts, is that the software engineering and the business engineering community do not communicate properly with each other==. This leads to the output from business engineering is not being used properly as input to the software development effort, and vice-versa. The Rational Unified Process addresses this by providing a common language and process for both communities, as well as showing how to create and maintain direct traceability between business and software models.
 **See also:**
 - [[202102211220 Udacity - Rational Unified process]]
 - [[202102171903 - La importancia del project management]]
