@@ -49,6 +49,34 @@ At the end of the inception phase is the first major project milestone: the Life
 **The project may be cancelled or considerably re-thought if it fails to pass this milestone.
 **
 
+##### Elaboration Phase
+==The purpose of the elaboration phase is to analyze the problem domain, establish a sound architectural foundation, develop the project plan, and eliminate the highest risk elements of the project==. It is easy to argue that the elaboration phase is the most critical of the four phases. At the end of this phase, the hard “engineering” is considered complete and the project undergoes its most important day of reckoning: the decision on whether or not to commit to the construction and transition phases. For most projects, this also corresponds to the transition from a mobile, light and nimble, low-risk operation to a high-cost, high-risk operation with substantial inertia. While the process must always accommodate changes, the elaboration phase activities ensure that the architecture, requirements and plans are stable enough, and the risks are sufficiently mitigated, so you can predictably determine the cost and schedule for the completion of the development. Conceptually, this level of fidelity would correspond to the level necessary for an organization to commit to a fixed-price construction phase.
+
+**The outcome of the elaboration phase is:** 
+- A use-case model (at least 80% complete) — all use cases and actors have been identified, and most use case descriptions have been developed. 
+- Supplementary requirements capturing the non functional requirements and any requirements that are not associated with a specific use case.
+-  A Software Architecture Description. 
+-  An executable architectural prototype. 
+-  A revised risk list and a revised business case. 
+-  A development plan for the overall project, including the coarse-grained project plan, showing iterations” and evaluation criteria for each iteration.
+-   An updated development case specifying the process to be used.
+-   A preliminary user manual (optional).
+
+###### Milestone : Lifecycle Architecture
+At this point, you examine the detailed system objectives and scope, the choice of architecture, and the resolution of the major risks.
+
+The main evaluation criteria for the elaboration phase involves the answers to these questions:
+- Is the vision of the product stable? 
+- Is the architecture stable? 
+- Does the executable demonstration show that the major risk elements have been addressed and credibly resolved? 
+- Is the plan for the construction phase sufficiently detailed and accurate? Is it backed up with a credible basis of estimates?
+- Do all stakeholders agree that the current vision can be achieved if the current plan is executed to develop the complete system, in the context of the current architecture? 
+- Is the actual resource expenditure versus planned expenditure acceptable?
+
+**The project may be aborted or considerably re-thought if it fails to pass this milestone.**
+
+##### Construction Phase
+During the construction phase, all remaining components and application features are developed and integrated into the product, and all features are thoroughly tested. ==The construction phase is, in one sense, a manufacturing process where emphasis is placed on managing resources and controlling operations to optimize costs, schedules, and quality.== In this sense, the management mindset undergoes a transition from the development of intellectual property during inception and elaboration, to the development of deployable products during construction and transition.
 **See also:**
 - [[202102211220 Udacity - Rational Unified process]]
 - [[202102171903 - La importancia del project management]]
