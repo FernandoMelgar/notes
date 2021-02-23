@@ -116,7 +116,25 @@ The primary evaluation criteria for the transition phase involve the answers to 
 - Is the user satisfied?
 - Are the actual resources expenditures versus planned expenditures still acceptable?
 
+#### Static structure of the process.
 
+==*A process describes* **who** is doing **what**, **how**, and **when**.==
+
+The Rational Unified Process is represented using four primary modeling elements:
+- **Workers** the **who**.
+- **Activities** the **how**.
+- **Artifacts** the **what**.
+- **Workflows** the **when**.
+![](https://i.imgur.com/xGdxzpr.png)
+
+##### Worker
+A worker defines the behavior and responsibilities of an individual, or a group of individuals working together as a team. **You could regard a worker as a "hat" an individual can wear in the project.** One individual may wear many different hats. This is an important distinction because it is natural to think of a worker as the individual or team itself, but in the Unified Process the worker is more the role defining how the individuals should carry out the work. The responsibilities we assign to a worker includes both to perform a certain set of activities as well as being owner of a set of artifacts
+![](https://i.imgur.com/Dez5pFH.png)
+
+> The way you work depends on the role you take.
+
+##### Activity
+==An activity of a specific worker is a unit of work that an individual in that role may be asked to perform.== The activity has a clear purpose, usually expressed in terms of creating or updating some artifacts, such as a model, a class, a plan. Every activity is assigned to a specific worker. An activity should be usable as an element of planning and progress; if it is too small, it will be neglected, and if it is too large, progress would have to be expressed in terms of an activity’s parts.
 **See also:**
 - [[202102211220 Udacity - Rational Unified process]]
 - [[202102171903 - La importancia del project management]]
