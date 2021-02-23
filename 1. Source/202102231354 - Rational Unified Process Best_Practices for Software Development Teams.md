@@ -104,6 +104,19 @@ This includes:
 -  Roll-out the product to the marketing, distribution, and sales teams.
 
 Considerable effort is expended in developing user-oriented documentation, training users, supporting users in their initial product use, and reacting to user feedback. At this point in the lifecycle, however, user feedback should be confined primarily to product tuning, configuring, installation, and usability issues.
+The primary objectives of the transition phase include:
+- Achieving user self-supportability.
+- Achieving stakeholder concurrence that deployment baselines are complete and consistent with the evaluation criteria of the vision.
+- Achieving final product baseline as rapidly and cost effectively as practical.
+
+###### Milestone: Product Release
+At this point, you decide if the objectives were met, and if you should start another development cycle. In some cases, this milestone may coincide with the end of the inception phase for the next cycle.
+
+The primary evaluation criteria for the transition phase involve the answers to these questions: 
+- Is the user satisfied?
+- Are the actual resources expenditures versus planned expenditures still acceptable?
+
+
 **See also:**
 - [[202102211220 Udacity - Rational Unified process]]
 - [[202102171903 - La importancia del project management]]
