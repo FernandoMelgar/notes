@@ -1,5 +1,16 @@
 # 202102221648 - Entrevistas para Mentees
 
+Establecer cuál es el propósito de cada pregunta.
+
+Cómo podemos acercarnos a nuestros mentees de manera gradual.
+
+- Romper el hielo.
+- Relacionado con el Tec
+- Relacionado con la comunicación con el grupo.
+- Dinámicas del grupo.
+
+
+
 1. ¿En dónde vives?
 2. ¿Perros o gatos?
 3. ¿En qué te gastarías primero el dinero si ganaras la lotería?
