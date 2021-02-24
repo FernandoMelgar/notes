@@ -162,6 +162,15 @@ And three core “supporting” workflows:
 
 ##### Business modeling
 ==One of the major problems with most business engineering efforts, is that the software engineering and the business engineering community do not communicate properly with each other==. This leads to the output from business engineering is not being used properly as input to the software development effort, and vice-versa. The Rational Unified Process addresses this by providing a common language and process for both communities, as well as showing how to create and maintain direct traceability between business and software models.
+
+In business modeling there is a documentation of the business process in what is called **business use case**. This assures a common understanding among all stakeholders of what business process needs to be supported in the organization. This is documented in a business object-model.
+
+##### Requirements 
+==The goal of the Requirements workflow is to describe **what the system should do** and allows the **developers and the customer to agree** on that description.== To achieve this, we elicit, organize, and document required functionality and constraints; track and document trade offs and decisions.
+
+A Vision document is created, and stakeholder needs are elicited. Use cases are identified, representing the behavior of the system. Each use case is described in detail. The use-case description shows how the system interacts step by step with the actors and what the system does. Non-functional requirements are described in Supplementary Specifications.
+
+##### Analysis and design
 **See also:**
 - [[202102211220 Udacity - Rational Unified process]]
 - [[202102171903 - La importancia del project management]]
