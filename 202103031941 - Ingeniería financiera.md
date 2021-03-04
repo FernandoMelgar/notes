@@ -27,3 +27,5 @@ El flujo de efectivo no es una métrica de rendimiento.
 > Las empresas  pagan impuesto por un activo fijo.
 
 > La inflación impacta directamente a los proyectos.
+
+Tasa de referencia
