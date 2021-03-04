@@ -18,4 +18,6 @@ TMAR = inflación + premio al riesgo + (inflación * premio al riesgo)
 ###  Flujo de efectivo
 El flujo de efectivo no es una métrica de rendimiento.
 
+### Valor actual neto y la Tasa Interna de Retorno (TIR)
+
 
