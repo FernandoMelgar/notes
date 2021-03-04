@@ -20,4 +20,6 @@ El flujo de efectivo no es una métrica de rendimiento.
 
 ### Valor actual neto y la Tasa Interna de Retorno (TIR)
 
+> El dinero no lo metas a una cuenta  de cheques, sino en una inversión.
+
 
