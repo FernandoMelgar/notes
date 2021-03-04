@@ -22,4 +22,5 @@ El flujo de efectivo no es una métrica de rendimiento.
 
 > El dinero no lo metas a una cuenta  de cheques, sino en una inversión.
 
+### Periodo de recuperación de inversión
 
