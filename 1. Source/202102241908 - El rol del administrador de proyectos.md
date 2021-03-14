@@ -1,5 +1,5 @@
-#Project-Management 
-# El rol del administrador de proyectos
+#Project-Management #TI2011_1
+# 202102241908 - El rol del administrador de proyectos
 
 Habilidades para administrar proyectos
 - Habilidades de administración.
