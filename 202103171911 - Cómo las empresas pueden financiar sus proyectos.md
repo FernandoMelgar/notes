@@ -3,3 +3,4 @@
 
 Las empresas tienen que enfocarse en pagar los gastos operativos.
 
+Las empresas emiten títulos de deuda.
