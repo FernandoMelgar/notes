@@ -19,4 +19,16 @@ Citizenship is an old but at the same time new concept.
 
 There are three rights: **civil rights**, **political rights** and **social rights.**
 
-> Complete citizenship structure in 3 categories: civic, social and political rights
+> Complete citizenship structure in 3 categories: civic, social and political rights.
+
+- **Civil citizenship.** Rule of law, equality before the law and individual freedoms. You can enjoy those rights. 
+- **Political citizenship.** Political participation, universal suffrage, political parties and labor unions. 
+- **Social citizenship.** Welfare state.
+- There are related, civil is first than political and political is first than social.
+
+> There's always a struggle for the rights to have rights.
+
+### Citizenship
+A **citizen** is a member of a political community who ==enjoys rights ==and ==assumes the duties== of membership denied to non-citizens residing in the country. 
+
+
