@@ -17,8 +17,6 @@ Out-group: Coexist but don't care a lot about them. People in our out-group can 
 ## Unit 1: Approaches to the study of citizenship
 Citizenship is an old but at the same time new concept.
 
-We have to start in ancient Greece.
-Characteristics for a citizen in Greece:
-- 
+There are three rights: **civil rights**, **political rights** and **social rights.**
 
-Approaches to the study of Citizenship
+> Complete citizenship structure in 3 categories: civic, social and political rights
