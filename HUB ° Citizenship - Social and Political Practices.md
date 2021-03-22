@@ -31,4 +31,21 @@ There are three rights: **civil rights**, **political rights** and **social righ
 ### Citizenship
 A **citizen** is a member of a political community who ==enjoys rights ==and ==assumes the duties== of membership denied to non-citizens residing in the country. 
 
+**Citizenship** involves ==relations between an individual and a State==: the individual owes allegiance and in turn is entitled to its protection.
+
+### Citizenship theories: Richard Bellamy - Normative and empirical theories
+
+**Normative.** Looks back into past historical models. ==Compares and contrast the current citizen with the old citizen== conception underlining its advantages and disadvantages. Looks back to craft the idea of a virtuous citizen. Includes the rights and obligations that the citizen have. There are norms that need to be followed.
+
+**Empirical.** Based on the social, economic and political reasons in history that have caused the modification of the concept of citizenship. There is a based on the reasons of why the concept of citizenship has been reformed.
+
+The concept of citizenship is composed of three main elements.
+- Citizenship as a legal status. Has the right to claim the laws protection, he must follow the rules.
+- Citizens as political agents. Actively participates in political institutions.
+- Citizenship as membership in a political community. Sense of belonging. Also called the Psicological dimension of citizenship.
+
+Defines citizenship connecting all three elements as a condition of civic equality, as a membership of a political community where all citizens can determine the terms of social cooperation on an equal basis, have equal rights and enjoy collective goods, and equal duties such as participating in the democratic life.
+
+
+
 
