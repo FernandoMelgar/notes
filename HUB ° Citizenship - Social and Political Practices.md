@@ -54,5 +54,27 @@ Defines citizenship connecting all three elements as a condition of civic equali
 
 ## Citizenship values
 - **Values of participation.** Include a view of problems as their own to help resolve. Citizens are motivated to make a difference and take action. Perseverance, cooperation, inclusion and fairness. Always the interest of common good. Obtaining justice and equality for everyone.
-- **Values of the individual.** Behave morally and ethically towards others. Understand their values and challenge. Integrity, honesty, compassion and respect. This person is aware of their own values.
-- **Values of the community.** Intention to belong and contribute. Shared understanding, agreed values and principles. Responsibility, tolerance and solidarity.
+- **Values of the individual.** ==Behave morally and ethically towards others==. Understand their values and challenge. Integrity, honesty, compassion and respect. This person is aware of their own values.
+- **Values of the community.** Intention to belong and contribute. ==Shared understanding, agreed values and principles.== Responsibility, tolerance and solidarity.
+
+**Core values to citizenship.**
+- Purpose.
+- Freedom.
+- Money.
+- Home.
+- Help.
+- Life.
+- Love.
+
+## Dimensions to citizenship practice
+- **Political.** Political citizenship is a membership in a political community, carrying with it the rights and obligations to participate in the government of that community. It Includes the Rule of Law and legality.
+- **Economic.** Economic citizenship represents the economic contributions to become a citizen and the influence: inequalities and unequal representation of socioeconomic classes. It includes poverty indexes, investment, salaries, employment and distribution of wealth.
+- **Social.** Social citizenship provides welfare benefits such as those linked to health and social care. It focuses on the expansion of public services and relates to education and environment.
+- **Cultural.** Cultural citizenship psychologically and ideologically connects members within a community through a sense of common belonging and shared experiences of daily life. It includes immigrants, people from different religions and beliefs, and ethnicity (indigenous communities). 
+
+
+
+
+
+
+
