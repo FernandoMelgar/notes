@@ -16,4 +16,5 @@ Estrategia de divide y venceras.
 - Lo correcto es hacer el WBS de arriba para abajo.
 - El objetivo del WBS es identificar todas las actividades del proyecto. Aqui no estamos hablando del orden en el que realizar las tareas.
 - En el WBS lo importante es encontrar la mayor cantidad de actividades posibles. Con el desgloce necesario.
+- Tabla de precedencia.
 - 
