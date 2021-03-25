@@ -12,3 +12,5 @@ Estrategia de divide y venceras.
 
 - No todas las tareas tienen la misma profundidad.
 -  A las tareas finales (Que no tienen hijos de más), son aquellas a las que se les asigna tiempos y costos.
+-  Entre más división, más acertividad en tiempos y costos.
+
