@@ -1,8 +1,8 @@
 #Project-Management
 # 202103241911 - Metodologías para la planeación de proyectos
 
-## Work breakdown structure.
 
+## Work breakdown structure.
 Estrategia de divide y venceras.
 1. Proyecto
 2. Tareas mayores
