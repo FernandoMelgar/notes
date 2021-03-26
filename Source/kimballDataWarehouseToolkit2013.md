@@ -39,4 +39,3 @@
 > "Each business process is represented by a dimensional model that consists of a fact table containing the event's numeric measurements surrounded by a halo of dimension tables that contain the textual context that was true at the moment the event occurred" ([Kimball&Ross 2013:52](zotero://open-pdf/library/items/6Z2USF66?page=52))
 
 > "Another way to think about the complementary nature of fact and dimension tables is to see them translated into a report. Dimension attributes supply the report filters and labeling, whereas the fact tables supply the report's numeric values" ([Kimball&Ross 2013:53](zotero://open-pdf/library/items/6Z2USF66?page=53))
-
