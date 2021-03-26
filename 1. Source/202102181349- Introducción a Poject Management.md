@@ -61,3 +61,4 @@ Un **proyecto** es un esfuerzo _temporal_ llevado a cabo con el _fin_ de crear u
 
 **See also:**
 - Slides: [[TI2011.1 Lecture 01.pdf]]
+- [[202103241911 - Metodologías para la planeación de proyectos]]

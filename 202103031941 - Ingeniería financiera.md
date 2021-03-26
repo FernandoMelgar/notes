@@ -29,3 +29,6 @@ El flujo de efectivo no es una métrica de rendimiento.
 > La inflación impacta directamente a los proyectos.
 
 Tasa de referencia
+
+See also:
+- [[202103171911 - Cómo las empresas pueden financiar sus proyectos]]
