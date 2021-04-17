@@ -1,3 +1,4 @@
+#Fleeting #Finished 
 # How to take smart notes?
 - Notes need to be organized by context not by folder.
 - Can use the approach to asking the right kind of questions.
