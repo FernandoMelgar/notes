@@ -6,7 +6,7 @@ Habilidades para administrar proyectos
 - Habilidades de comunicación
 - Habilidades sociales.
 
-> Hay ocaciones que pierdes un buen Ingeniero por hacerlo project management 
+> Hay ocaciones que pierdes un buen Ingeniero por hacerlo project manager
 	
 ==**El project manager hace que las cosas sucedan.**==
 
